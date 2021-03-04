@@ -3,7 +3,7 @@ NAME
 	reverse-complement.py
     
 VERSION
-    1.0
+    1.2
     
 AUTHOR
 	
