@@ -2,10 +2,10 @@
        AT-percentage
 
 VERSION
-        1.2
+        1.0
 
 AUTHOR
-        Rodrigo
+        
 
 DESCRIPTION
         Calculate percentage of AT on a genome sequence
