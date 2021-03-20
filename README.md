@@ -21,8 +21,7 @@ Mantener un control automatizado de los archivos del repositorio.
 
 + En la carpeta -docs- se encuentran las notas de la clase junto con otros documentos.
 + En la carpeta -src- se encuentran los datos usados por los programas desarrollados.
-+ La carpeta -results- contiene los resultados de los programas hechos
-+ Existe un archvio -git.ignore- para especificar aquellos archivos que no deseamos controlar.
++ Existe un archivo -.gitignore- para especificar aquellos archivos que no deseamos controlar.
 
 ## Licencia
 
