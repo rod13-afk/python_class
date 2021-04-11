@@ -1,31 +1,42 @@
 '''
 NAME
-       AT-percentage
+       [programName].py
 
 VERSION
-        1.0
+        [#.#]
 
 AUTHOR
-        Rodrigo Daniel Hernández Barrera        
+        Rodrigo Daniel Hernández Barrera  <[username]@gmail.com>
+	[Other authors]: [Modifications]        
 
 DESCRIPTION
-        Calculate percentage of AT on a genome sequence
+        [Describe the program]
 
 CATEGORY
-        Genomic sequence
+       [category of the program: sequence analysis for example]
 
 USAGE
 
-    % python AT-percentage.py -i filename
+    [programName][-options/arguments]
+
+ARGUMENTS
+    [name]  [description]
+    [name]  [description]
+    [name]  [description]
     
-    example
+INPUT
+    [files or directories used to run the program and formats]
     
-    % python AT-percentage.py -i sequence.txt
+OUTPUT
+    [file names and formats]
+    
+EXAMPLES
+    [Example 1: describe the example, input and outputs]
         
 '''
     
 
-## 1.
+## 1. [Describe the step 1]
 
 ## 2.
 
