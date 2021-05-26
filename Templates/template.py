@@ -13,25 +13,31 @@ DESCRIPTION
         [Describe the program]
 
 CATEGORY
-       [category of the program: sequence analysis for example]
+       	[Category of the program: sequence analysis for example]
 
 USAGE
-
-    [programName][-options/arguments]
+	[programName][-options/arguments]
 
 ARGUMENTS
-    [name]  [description]
-    [name]  [description]
-    [name]  [description]
+   	[name]  [description]
+    	[name]  [description]
+    	[name]  [description]
+    
+FUNCTIONS
+    	[List of functions]
+  
+    	<funtion_name>(arguments):
+    	   [Code]
+    	   return()
     
 INPUT
-    [files or directories used to run the program and formats]
+    	[Files or directories used to run the program and formats]
     
 OUTPUT
-    [file names and formats]
+    	[File names and formats]
     
 EXAMPLES
-    [Example 1: describe the example, input and outputs]
+    	[Example 1: describe the example, input and outputs]
         
 '''
     
