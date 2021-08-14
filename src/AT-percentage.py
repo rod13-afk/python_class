@@ -2,7 +2,7 @@
        AT-percentage
 
 VERSION
-        1.0
+        0.0.4
 
 AUTHOR
         Rodrigo
