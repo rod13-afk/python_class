@@ -15,7 +15,7 @@ CATEGORY
 
 USAGE
 
-    % python AT-percentage.py -i filename
+    % python AT-percentage.py
     
     example
     
