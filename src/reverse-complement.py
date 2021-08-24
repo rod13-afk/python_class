@@ -6,7 +6,7 @@ VERSION
     1.2
     
 AUTHOR
-	Rodrigo, Daniel 
+	Rodrigo Daniel Hernandez Barrera 
     
 DESCRIPTION
 	Make the reverse complement of DNA sequence
