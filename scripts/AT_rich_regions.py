@@ -5,6 +5,8 @@ VERSION
         [1.0]
 AUTHOR
         Rodrigo Daniel Hernandez Barrera <<rodrigoh@lcg.unam.mx>>
+        Victor Jesús Enriquez Castro <<victorec@lcg.unam.mx>>
+        
 DESCRIPTION
         Programa que toma una secuencia de DNA, evalua que esta secuencia contenga unicamente nucleotidos y solo asi
         imprime las secuencias ricas en AT, de lo contrario imprime las letras ambiguas encontradas y su posicion.
