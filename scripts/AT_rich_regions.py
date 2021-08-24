@@ -19,7 +19,7 @@ EXAMPLES
             dna = CTGCATTATATCGTACGAAATTATACGCGCG
          Output
             Regiones ricas en AT:
-            ATTATAT
+            ATTATATAAAT
             AAATTATA
 GITHUB
         https://github.com/rod13-afk/python_class/blob/master/scripts/AT_rich_regions.py
